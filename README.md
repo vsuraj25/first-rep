@@ -1,7 +1,4 @@
-# first-rep
-first repository ever.
-Hi i am an Computer science student and this is my frist github repository.
-
+[![Suraj Verma | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][reach_linkedin]
 
 [reach_linkedin]: https://www.linkedin.com/in/suraj-verma-982b31157/
 
