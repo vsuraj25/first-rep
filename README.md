@@ -1,6 +1,6 @@
 <div id="top"></div>
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
+    [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+    
 <h3 align="center">Project Title</h3>
 
  <p align="center">
